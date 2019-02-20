@@ -1,5 +1,6 @@
 import unittest
 from github567 import gb
+import requests
 class Testgh(unittest.TestCase):
 	def test_normal(self):
 		self.assertEqual(list(gb("vaityshrey")), ['Repo: androcrew commit: 0.'])
