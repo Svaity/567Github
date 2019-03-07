@@ -14,7 +14,7 @@ def gb(ID):
 
 
 def main():
-	"""Please enetr a name"""
+	"""Please enter a name"""
 	print(list(gb("svaity")))
 
 

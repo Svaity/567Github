@@ -1,0 +1,154 @@
+[
+  {
+    "sha": "cd241da83f0c29a5a7e6102d2ad85df8300af331",
+    "node_id": "MDY6Q29tbWl0MTY4MjAxODU0OmNkMjQxZGE4M2YwYzI5YTVhN2U2MTAyZDJhZDg1ZGY4MzAwYWYzMzE=",
+    "commit": {
+      "author": {
+        "name": "srikii",
+        "email": "44855671+srikii@users.noreply.github.com",
+        "date": "2019-01-29T18:07:08Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2019-01-29T18:07:08Z"
+      },
+      "message": "Update srikanth_HW01.py",
+      "tree": {
+        "sha": "255877ecdbb48f03c15c90cbbafe9ce606d3035a",
+        "url": "https://api.github.com/repos/srikii/SSW-567/git/trees/255877ecdbb48f03c15c90cbbafe9ce606d3035a"
+      },
+      "url": "https://api.github.com/repos/srikii/SSW-567/git/commits/cd241da83f0c29a5a7e6102d2ad85df8300af331",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJcUJZMCRBK7hj4Ov3rIwAAdHIIAD3MSTnT8slLWndq+WbzF/iy\nObvjAEyvqBu/abXiVwbYpxQS1iaWCEX+Tx8C+Rbbb3iDFPnX0F8FQOriU8qchNnD\n1YKuWqq2azABf2uMiEwWsCPwjSEyKvdWqoaQsO/NrpZACLz8DSb06PgXbfW5qw3h\nnMXJcEFePivRjNgDP+12GTediitJEvLhU8Bv7ocIYCgvQ9ebY2gMcc12zSBEqXx7\nHyn0dOefAvePRN5as20u9nRM9jfKOrzgMnSyfg+kz+WV+DzQneJmceU8jv37NAK7\nw/5z5MbicnU109f2MBewsqzKZceHF4yPzMTNs4qupo6TGRdITryTeH5dbzbR3WU=\n=IaD1\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 255877ecdbb48f03c15c90cbbafe9ce606d3035a\nparent 9323601ee5326fe317c866a0aaf4273268fa85bf\nauthor srikii <44855671+srikii@users.noreply.github.com> 1548785228 -0500\ncommitter GitHub <noreply@github.com> 1548785228 -0500\n\nUpdate srikanth_HW01.py"
+      }
+    },
+    "url": "https://api.github.com/repos/srikii/SSW-567/commits/cd241da83f0c29a5a7e6102d2ad85df8300af331",
+    "html_url": "https://github.com/srikii/SSW-567/commit/cd241da83f0c29a5a7e6102d2ad85df8300af331",
+    "comments_url": "https://api.github.com/repos/srikii/SSW-567/commits/cd241da83f0c29a5a7e6102d2ad85df8300af331/comments",
+    "author": {
+      "login": "srikii",
+      "id": 44855671,
+      "node_id": "MDQ6VXNlcjQ0ODU1Njcx",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/44855671?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/srikii",
+      "html_url": "https://github.com/srikii",
+      "followers_url": "https://api.github.com/users/srikii/followers",
+      "following_url": "https://api.github.com/users/srikii/following{/other_user}",
+      "gists_url": "https://api.github.com/users/srikii/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/srikii/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/srikii/subscriptions",
+      "organizations_url": "https://api.github.com/users/srikii/orgs",
+      "repos_url": "https://api.github.com/users/srikii/repos",
+      "events_url": "https://api.github.com/users/srikii/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/srikii/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "9323601ee5326fe317c866a0aaf4273268fa85bf",
+        "url": "https://api.github.com/repos/srikii/SSW-567/commits/9323601ee5326fe317c866a0aaf4273268fa85bf",
+        "html_url": "https://github.com/srikii/SSW-567/commit/9323601ee5326fe317c866a0aaf4273268fa85bf"
+      }
+    ]
+  },
+  {
+    "sha": "9323601ee5326fe317c866a0aaf4273268fa85bf",
+    "node_id": "MDY6Q29tbWl0MTY4MjAxODU0OjkzMjM2MDFlZTUzMjZmZTMxN2M4NjZhMGFhZjQyNzMyNjhmYTg1YmY=",
+    "commit": {
+      "author": {
+        "name": "srikii",
+        "email": "44855671+srikii@users.noreply.github.com",
+        "date": "2019-01-29T18:06:17Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2019-01-29T18:06:17Z"
+      },
+      "message": "HW01 buggy triangles_with automate test cases\n\nBuggy triangles assignment to classify triangles given the length of the 3 sides and write automated test cases to test the correctness",
+      "tree": {
+        "sha": "d772a65da295530178f1779a1dcbb22494d916f4",
+        "url": "https://api.github.com/repos/srikii/SSW-567/git/trees/d772a65da295530178f1779a1dcbb22494d916f4"
+      },
+      "url": "https://api.github.com/repos/srikii/SSW-567/git/commits/9323601ee5326fe317c866a0aaf4273268fa85bf",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJcUJYZCRBK7hj4Ov3rIwAAdHIIAAGGN3Lrpvvz2q3iM5+G+ym1\n1GZLmpLkc+OYkX1idEulvomaJUL4U+zQD6sxxT4dExWaprwPg0UYtPpTvB2i12SO\nAN59dmtKqja8DRx7gic19rVOlZQ37NRsXju2xOh1amm1gZJUkDDDWC9OMDlcgS5F\nCOtayNkSy3OS3XrpICUQQGfCiShwZJUDsumr/WO9pGhjIlqqMKfRSjT8WefpJRf1\nuvvYD0GNCU76OxS0xHI5eeu0e2hp/SKuevHB3tA9nA6qy6Ay4QKGXmZQCVfGuqxG\nj5Z5R0DGN/B8SC05I5lqjJ17ca/rvS6n6WhcsnDIcVo0AFyjTbP/4luj4idX4R4=\n=UR3a\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree d772a65da295530178f1779a1dcbb22494d916f4\nauthor srikii <44855671+srikii@users.noreply.github.com> 1548785177 -0500\ncommitter GitHub <noreply@github.com> 1548785177 -0500\n\nHW01 buggy triangles_with automate test cases\n\nBuggy triangles assignment to classify triangles given the length of the 3 sides and write automated test cases to test the correctness"
+      }
+    },
+    "url": "https://api.github.com/repos/srikii/SSW-567/commits/9323601ee5326fe317c866a0aaf4273268fa85bf",
+    "html_url": "https://github.com/srikii/SSW-567/commit/9323601ee5326fe317c866a0aaf4273268fa85bf",
+    "comments_url": "https://api.github.com/repos/srikii/SSW-567/commits/9323601ee5326fe317c866a0aaf4273268fa85bf/comments",
+    "author": {
+      "login": "srikii",
+      "id": 44855671,
+      "node_id": "MDQ6VXNlcjQ0ODU1Njcx",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/44855671?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/srikii",
+      "html_url": "https://github.com/srikii",
+      "followers_url": "https://api.github.com/users/srikii/followers",
+      "following_url": "https://api.github.com/users/srikii/following{/other_user}",
+      "gists_url": "https://api.github.com/users/srikii/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/srikii/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/srikii/subscriptions",
+      "organizations_url": "https://api.github.com/users/srikii/orgs",
+      "repos_url": "https://api.github.com/users/srikii/repos",
+      "events_url": "https://api.github.com/users/srikii/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/srikii/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": []
+  }
+]
